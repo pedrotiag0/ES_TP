@@ -1,0 +1,61 @@
+div.modal-content {
+    width: 55%;
+    left: 20%;
+}
+
+div.modal-body {
+    height: 100%;
+}
+
+div p {
+    text-align: center;
+    font-weight: bold;
+    color: #000;
+    font-size: 150%;
+}
+
+.upload-btn-wrapper {
+    position: absolute;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.btn {
+    border: 2px solid #2196F3;
+    color: #2196F3;
+    background-color: white;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+
+.image {
+    margin-top: 5%;
+}
+
+#button {
+    position: absolute;
+    width: 7%;
+    height: 5%;
+    border: 3px solid #2196F3;
+    background: #2196F3;
+    color: #fff;
+    display: block;
+    border: none;
+    font-size: 100%;
+}
+
+#button:focus,
+#button:hover {
+    background: #0c7cd5;
+    cursor: pointer;
+}

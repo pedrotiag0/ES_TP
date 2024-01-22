@@ -1,7 +1,7 @@
-# ES_TP
+# Service Engineering - Practical Work
  
-Trabalho realizado no âmbito da unidade curricular de Engenharia de Serviços (1º ano, 2º semestre, UC)
+Work carried out within the scope of the course "Service Engineering" (1st year, 2nd semester, University of Coimbra).
 
-Trabalho realizado por: Henrique Fonseca, José Francisco Bugalho, Pedro Marques
+Work done by: Henrique Fonseca, José Francisco Bugalho, Pedro Marques
 
-Nota: este repositório contém apenas os ficheiros para dar deploy à aplicação na AWS, contudo, faltam as Step e Lambda Functions.
+Note: This repository contains only the files to deploy the application on AWS; however, the Step and Lambda Functions are on AWS only.
